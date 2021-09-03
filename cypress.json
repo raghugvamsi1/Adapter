@@ -1,0 +1,14 @@
+{
+    "viewportWidth": 1980,
+    "viewportHeight": 1020,
+    "chromeWebSecurity": false,
+    "fixturesFolder": "cypress/fixtures",
+    "integrationFolder": "tests",
+    "screenshotsFolder": "cypress/screenshots",
+    "videosFolder": "cypress/videos",
+    "env": {
+        "GOOGLE_BASE_URL": "https://www.google.com",
+        "CATERING_LITE_URL_QA": "https://qa01.ip.wawa.com/catering",
+        "LOCAL_DEMO_BASE_URL": "http://localhost:3000/"
+    }
+}

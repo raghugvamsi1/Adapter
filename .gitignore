@@ -1,0 +1,13 @@
+node_modules/
+.cache/
+.history/
+dist/
+cypress/videos/
+
+yarn-error.log
+debug.log
+
+.env.local
+
+allure-results/
+allure-component-test-results/
